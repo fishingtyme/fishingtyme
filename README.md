@@ -17,3 +17,10 @@
 
 </div>
 </html>
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vonlqbq3nb6m5xtbjagqligu7q&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1f0c00&interchange=false&profanity=false&hide_remaster=false&bar_color=ffb30f">
+  </a>
+</p>
