@@ -1,4 +1,5 @@
-#  <div align="center"> ![hi](https://64.media.tumblr.com/97975eda917d85611520e0b3d424efee/f44f43ab5bfeedcc-1f/s250x400/07f67555ef27a0ce6eb80e701d1bc4c25ca62ef1.gifv)
+#  <div align="center"> ![hi](https://files.catbox.moe/9trdk7.png) ![hi](https://files.catbox.moe/qo7ru0.png) ![hi](https://files.catbox.moe/gs7lpm.png)
+
 
  <p align="center">
   <img src="https://hits.sh/github.com/fishingtyme/fishingtyme.svg?style=plastic&label=views&extraCount=120&color=e0f9ff&labelColor=96ecff&logo=Slig)](https://hits.sh/github.com/fishingtyme/fishingtyme/" alt="Hits">
