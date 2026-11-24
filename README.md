@@ -4,8 +4,6 @@
     <tt><i>#1 fishingtime fan</i></tt>
   <br>
   <br>
-  <p>c+h enc!!
-  <br>
   <p>he/they
 </p>ESFP so/sp 379 3w2 FEVL true neutral
 <br>
