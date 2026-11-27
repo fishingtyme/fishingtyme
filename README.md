@@ -11,7 +11,7 @@
   <br>
   <br>
   <p>he/they
-</p>ESFP so/sp 379 3w2 FEVL true neutral
+</p>Se-Fi-Te-Ni ESFP 3w2 so/sp 379 FEVL true neutral Sc[U]E/I/ sang-chol
 <br>
 <br>
 <a href="https://apri.atabook.org/?page=1">atabook</a>
